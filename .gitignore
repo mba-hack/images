@@ -22,3 +22,4 @@ _site
 .vim/
 .*.un~
 .ssh/
+about/.DS_Store
